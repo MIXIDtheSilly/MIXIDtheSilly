@@ -7,7 +7,7 @@ I really enjoy VR development and network security; building immersive experienc
 ### 🚧 What I'm up to:
 - 🦉 **Currently Enjoying:** Working on a VR game **Furrowl**.
 - 🗣️ **Talk to me about:** VR Game Development, Network Security, Or Yeeps Hacking lol?
-- 📫 **Where to find me:** Messege me at discord at **`mixid_mbb`**
+- 📫 **Where to find me:** Message me at discord at **`mixid_mbb`**
 
 ---
 
