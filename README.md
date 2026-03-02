@@ -1,6 +1,6 @@
 # Hey, I’m MIXID_MBB
 
-I’m a software engineer who builds virtual reality games and then makes sure no one breaks into them.
+I’m a software engineer who builds virtual reality games (or make projects no one needs) and then makes sure no one breaks into them.
 
 I really enjoy VR development and network security; building immersive experiences and making sure the systems behind them stay secure. 
 
