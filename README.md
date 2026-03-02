@@ -11,7 +11,7 @@ I really enjoy VR development and network security; building immersive experienc
 
 ---
 
-### 🛠️ Tools I use to turn caffeine into code:
+### Tools I use to... do things:
 
 **Making Games & 3D Stuff:** ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
