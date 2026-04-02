@@ -1,13 +1,10 @@
-# Hey, I’m MIXID_MBB
+# HI, I’m MIXID_MBB
 
-I’m a software engineer who builds virtual reality games (or make projects no one needs) and then makes sure no one breaks into them.
-
-I really enjoy VR development and network security; building immersive experiences and making sure the systems behind them stay secure. 
-
+I’m a software engineer who builds virtual reality games (or make projects no one needs).
 ### 🚧 What I'm up to:
-- 🦉 **Currently Enjoying:** Working on a VR game **Furrowl**.
+- 🦉 **Currently working on:** a VR game **Furrowl**.
 - 🗣️ **Talk to me about:** VR Game Development, Network Security, Or Yeeps Hacking lol?
-- 📫 **Where to find me:** Message me at discord at **`mixid_mbb`**
+- 📫 **Where to find me:** Discord? duh **`mixid_mbb`**
 
 ---
 
