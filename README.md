@@ -31,11 +31,7 @@ I’m a software engineer who builds virtual reality games (or make projects no 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=MIXIDtheSilly&show_icons=true&theme=dark" />
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MIXIDtheSilly&size_weight=0.5&count_weight=0.5&theme=dark" />
-</a>
-<br>
+
 <div align="center">
   <i>We all ignore ⚠️ right?</i>
 </div>
