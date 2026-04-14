@@ -31,7 +31,7 @@ I’m a software engineer who builds virtual reality games (or make projects no 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 <br>
-
+[![MIXID's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIXIDtheSilly)]
 <div align="center">
   <i>We all ignore ⚠️ right?</i>
 </div>
