@@ -26,25 +26,21 @@ I'm a software engineer who builds virtual reality games (or makes projects no o
 
 ### 🛠️ Tools I use to... do things:
 
-**Making Games & 3D Stuff:** ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+**🎮 Making Games & 3D Stuff**
 
-**Backend & Brains:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=unity,cs,blender&theme=dark" alt="Unity, C#, Blender" />
 
-**Web & Making Things Look Pretty:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+**🧠 Backend & Brains**
 
-**Servers, Security & Wires:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,mongodb&theme=dark" alt="Python, FastAPI, PyTorch, MongoDB" />
+
+**🎨 Web & Making Things Look Pretty**
+
+<img src="https://skillicons.dev/icons?i=js,html,css,figma,ps&theme=dark" alt="JavaScript, HTML, CSS, Figma, Photoshop" />
+
+**🔌 Servers, Security & Wires**
+
+<img src="https://skillicons.dev/icons?i=linux,nginx,git,postman,arduino,bash&theme=dark" alt="Linux, Nginx, Git, Postman, Arduino, Bash" />
 
 ---
 
