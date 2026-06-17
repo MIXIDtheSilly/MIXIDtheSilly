@@ -30,15 +30,15 @@ I'm a software engineer who builds virtual reality games (or makes projects no o
 
 <img src="https://skillicons.dev/icons?i=unity,cs,blender&theme=dark" alt="Unity, C#, Blender" />
 
-** Backend & Brains**
+**Backend & Brains**
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,mongodb&theme=dark" alt="Python, FastAPI, PyTorch, MongoDB" />
 
-** Web & Making Things Look Pretty**
+**Web & Making Things Look Pretty**
 
 <img src="https://skillicons.dev/icons?i=js,html,css,figma,ps&theme=dark" alt="JavaScript, HTML, CSS, Figma, Photoshop" />
 
-** Servers, Security & Wires**
+**Servers, Security & Wires**
 
 <img src="https://skillicons.dev/icons?i=linux,nginx,git,postman,arduino,bash&theme=dark" alt="Linux, Nginx, Git, Postman, Arduino, Bash" />
 
