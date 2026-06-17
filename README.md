@@ -18,37 +18,35 @@ I'm a software engineer who builds virtual reality games (or makes projects no o
 
 ### 🔗 Find me here:
 
-<a href="https://discord.com/users/mixid_mbb">
+<a href="https://discord.com/users/1046865606781194310">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
 ---
 
-### 🛠️ Tools I use to... do things:
+###  Tools I use to... do things:
 
-**🎮 Making Games & 3D Stuff**
+** Making Games & 3D Stuff**
 
 <img src="https://skillicons.dev/icons?i=unity,cs,blender&theme=dark" alt="Unity, C#, Blender" />
 
-**🧠 Backend & Brains**
+** Backend & Brains**
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,mongodb&theme=dark" alt="Python, FastAPI, PyTorch, MongoDB" />
 
-**🎨 Web & Making Things Look Pretty**
+** Web & Making Things Look Pretty**
 
 <img src="https://skillicons.dev/icons?i=js,html,css,figma,ps&theme=dark" alt="JavaScript, HTML, CSS, Figma, Photoshop" />
 
-**🔌 Servers, Security & Wires**
+** Servers, Security & Wires**
 
 <img src="https://skillicons.dev/icons?i=linux,nginx,git,postman,arduino,bash&theme=dark" alt="Linux, Nginx, Git, Postman, Arduino, Bash" />
 
 ---
 
-### 📊 The numbers (that I definitely don't farm):
+###  The numbers:
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MIXIDtheSilly&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="MIXID's GitHub stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIXIDtheSilly&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIXIDtheSilly&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
