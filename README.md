@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=HI%2C+I'm+MIXID_MBB;I+build+VR+games;...and+projects+no+one+needs+%F0%9F%98%8E" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=HI%2C+I'm+MIXID_MBB;I+build+VR+games;" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MIXIDtheSilly&label=Profile%20views&color=8A2BE2&style=for-the-badge)
 
