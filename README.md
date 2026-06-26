@@ -26,7 +26,7 @@ I'm a software engineer who builds virtual reality games (or makes projects no o
 
 ###  Tools I use to... do things:
 
-** Making Games & 3D Stuff**
+**Making Games & 3D Stuff**
 
 <img src="https://skillicons.dev/icons?i=unity,cs,blender&theme=dark" alt="Unity, C#, Blender" />
 
