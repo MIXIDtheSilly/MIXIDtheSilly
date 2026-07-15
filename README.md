@@ -47,8 +47,6 @@ I'm a software engineer who builds virtual reality games (or makes projects no o
 ###  The numbers:
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIXIDtheSilly&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIXIDtheSilly&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
