@@ -10,13 +10,13 @@
 
 I'm a software engineer who builds virtual reality games (or makes projects no one needs).
 
-### 🚧 What I'm up to:
-- 🦉 **Currently working on:** a VR game **Furrowl**.
-- 🗣️ **Talk to me about:** VR Game Development, Network Security, Or Yeeps Hacking lol?
-- 🌱 **Currently learning:** whatever breaks next.
-- 📫 **Where to find me:** Discord? duh **`mixid_mbb`**
+### What I'm up to:
+-  **Currently working on:** a VR game **Furrowl**.
+-  **Talk to me about:** VR Game Development, Network Security, Or Yeeps Hacking lol?
+-  **Currently learning:** whatever breaks next.
+-  **Where to find me:** Discord? duh **`mixid_mbb`**
 
-### 🔗 Find me here:
+###  Find me here:
 
 <a href="https://discord.com/users/1046865606781194310">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
