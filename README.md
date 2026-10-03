@@ -21,6 +21,10 @@ I'm a software engineer who builds virtual reality games (or makes projects no o
 </a>
 
 ---
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=MIXIDtheSilly&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MIXIDtheSilly&size_weight=0.5&count_weight=0.5&theme=dark" />
+</a>
 
 ###  Tools I use to... do things:
 
